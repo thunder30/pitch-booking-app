@@ -1,0 +1,9 @@
+[submodule "dat-san-bong-admin"]
+	path = dat-san-bong-admin
+	url = https://github.com/thunder30/dat-san-bong-admin
+[submodule "dat-san-bong-client"]
+	path = dat-san-bong-client
+	url = https://github.com/thunder30/dat-san-bong-client
+[submodule "dat-san-bong-api"]
+	path = dat-san-bong-api
+	url = https://github.com/thunder30/dat-san-bong-api
